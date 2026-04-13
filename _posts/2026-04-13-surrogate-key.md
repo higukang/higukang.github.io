@@ -1,5 +1,5 @@
 ---
-title: 내부 PK와 외부 공개 식별자를 분리한 이유
+title: 내부 PK와 외부 공개 식별자를 분리하기
 tags: [backend, architecture, database, security]
 excerpt_separator: <!--more-->
 ---

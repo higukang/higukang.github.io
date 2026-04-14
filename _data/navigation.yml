@@ -50,3 +50,9 @@ header:
       tr      : &TR       Hakkında
       # @end locale config
     url: /about.html
+
+  - titles:
+      en      : Notes
+      ko      : 노트
+      ko-KR   : 노트
+    url: /notes.html
